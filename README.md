@@ -6,4 +6,5 @@ From the Kaggle website:
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:  
 
-![image](https://github.com/user-attachments/assets/22025383-c4a3-4511-b636-d4de3bdb55c3)
+![Screenshot 2024-08-25 at 2 18 54 PM](https://github.com/user-attachments/assets/07d50d8e-0043-4780-9412-7042139e797d)
+

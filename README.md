@@ -10,3 +10,4 @@ But, it’s not always clear whether a person’s words are actually announcing 
 
 The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine. In this competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t."   
 
+First step was to download the data files provided and explore them. I used Pandas to load them into dataframes and then view the headings and the data.  
